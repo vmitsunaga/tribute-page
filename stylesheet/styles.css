@@ -1,0 +1,61 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    background-color: #333333;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+a {
+
+}
+
+a:visited {
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#main {
+    margin: 30px 80px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #EEEEEE;
+}
+
+#title {
+    font-weight: 700;
+    font-size: 
+}
+
+#img-div {
+    display: inline-block;
+    width: 95%;
+    background: #FFFFFF;
+    padding: 10px;
+}
+
+#image {
+
+}
+
+#img-caption {
+    margin: 15px 0 5px 0;
+}
+
+#tribute-info {
+
+}
